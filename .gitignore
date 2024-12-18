@@ -1,0 +1,5 @@
+# Sensitive files
+server/config/serviceAccountKey.json
+server/config/firebase.js
+server/serviceAccountKey.json
+node_modules/
